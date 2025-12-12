@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm [Pankaj]  
 Frontend Developer crafting pixel-perfect experiences with modern frameworks 🚀
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=React+Next.js+Specialist;Vue+Nuxt+Enthusiast;Tailwind+Bootstrap+Master;HTML+CSS+JS+Expert;Building+Interactive+UIs;Turning+Designs+Into+Reality)] [web:1]
@@ -27,9 +27,9 @@ Frontend Developer crafting pixel-perfect experiences with modern frameworks �
 ## 📊 GitHub Stats
 <div align="center">
 
-[![YOUR_USERNAME's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats) [web:22]
+[![pankaj48553's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankaj48553&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats) [web:22]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats) [web:22]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj48553&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats) [web:22]
 
 </div>
 
@@ -46,7 +46,7 @@ Frontend Developer crafting pixel-perfect experiences with modern frameworks �
 - ♿ Accessibility-first development [web:5]
 
 ## 🏆 Achievements
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats) [web:1]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pankaj48553&theme=radical&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats) [web:1]
 
 <div align="center">
   
